@@ -6,7 +6,7 @@ Sou apaixonado por tecnologia e focado em criar soluções práticas e eficiente
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-![Minhas Techs](https://skillicons.dev/icons?i=js,react,nodejs,typescript,tailwind,postgres,git,github,html,css,java,py,cpp,php)
+![Minhas Techs](https://skillicons.dev/icons?i=js,react,nodejs,typescript,tailwind,mysql,git,github,html,css,java,py,cpp,php)
 
 ---
 
