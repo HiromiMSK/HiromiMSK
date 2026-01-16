@@ -1,4 +1,3 @@
-
 # Olá, eu sou o Victor Hiromi 👋
 
 ### 🚀 Desenvolvedor em Evolução
@@ -12,6 +11,7 @@ Sou apaixonado por tecnologia e focado em criar soluções práticas e eficiente
 ---
 
 ### 📂 Meus Projetos Principais
+* **[MskCorp-PDV](https://github.com/HiromiMSK/MskCorp-PDV)**: Sistema de PDV Desktop completo com Python, Eel e impressão térmica.
 * **[Projeto-RENEBANK](https://github.com/HiromiMSK/Projeto-RENEBANK)**: Sistema focado em gestão e operações bancárias.
 * **[SkillSync_Frontend](https://github.com/Aragao21/SkillSync_Frontend)**: Interface moderna voltada para experiência do usuário.
 
